@@ -37,11 +37,10 @@ Forbellone, André Luiz Villar; Eberspacher, Henri Frederico. *Lógica de Progra
 https://www.kufunda.net/publicdocs/L%C3%B3gica%20de%20programa%C3%A7%C3%A3o%20a%20constru%C3%A7%C3%A3o%20de%20algoritmos%20e%20estruturas%20de%20dados%20(Andr%C3%A9%20Luiz%20Villar%20Forbellone%20etc.).pdf
 
 ## 📸 Demonstração
-![adicionar](adicionar.png)
-![image](https://github.com/user-attachments/assets/0c6d7444-7ca3-49ad-8c2d-aedda53556ef)
 
-![listar](listar.png)
-![image](https://github.com/user-attachments/assets/9e775b77-f354-4b8e-b776-c493ad76064b)
+![Adicionar](https://github.com/user-attachments/assets/0c6d7444-7ca3-49ad-8c2d-aedda53556ef)
+
+![Listar](https://github.com/user-attachments/assets/9e775b77-f354-4b8e-b776-c493ad76064b)
 
 
 ## 📄 Licença

@@ -34,6 +34,8 @@ Arquivo `testes.py` com simulação de ações básicas.
 ## 📚 Referência
 Forbellone, André Luiz Villar; Eberspacher, Henri Frederico. *Lógica de Programação: a construção de algoritmos e estruturas de dados*. 3. ed. São Paulo: Pearson Education do Brasil, 2005.
 
+https://www.kufunda.net/publicdocs/L%C3%B3gica%20de%20programa%C3%A7%C3%A3o%20a%20constru%C3%A7%C3%A3o%20de%20algoritmos%20e%20estruturas%20de%20dados%20(Andr%C3%A9%20Luiz%20Villar%20Forbellone%20etc.).pdf
+
 ## 📸 Demonstração
 ![adicionar](adicionar.png)
 ![listar](listar.png)

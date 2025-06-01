@@ -38,8 +38,10 @@ https://www.kufunda.net/publicdocs/L%C3%B3gica%20de%20programa%C3%A7%C3%A3o%20a%
 
 ## 📸 Demonstração
 
+Adicionar Produto:
 ![Adicionar](https://github.com/user-attachments/assets/0c6d7444-7ca3-49ad-8c2d-aedda53556ef)
 
+Listar produto:
 ![Listar](https://github.com/user-attachments/assets/9e775b77-f354-4b8e-b776-c493ad76064b)
 
 

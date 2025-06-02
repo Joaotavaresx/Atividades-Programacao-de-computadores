@@ -13,7 +13,7 @@ def adicionar_produto():
             print("Produto já cadastrado.")
             return   # Sai da função se produto existir
             
-    # Coleta demais informações do produto
+    # Coleta demais informações dos produtos
     nome = input("Nome do produto: ")
     quantidade = int(input("Quantidade em estoque: "))
     preco = float(input("Preço unitário: "))

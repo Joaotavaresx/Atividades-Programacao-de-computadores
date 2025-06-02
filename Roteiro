@@ -1,0 +1,41 @@
+🗺️ Roteiro (Seguindo o modelo exigido)
+1️⃣ Ponto de Partida – Ideia e plano
+Problema real: Pequenos comerciantes têm dificuldade de controlar seus produtos sem um sistema simples e eficiente.
+
+Objetivo da aplicação: Permitir o gerenciamento básico do estoque via menu interativo, simulando um sistema de apoio para lojas ou ambulantes.
+
+2️⃣ Mão na Massa – Código com conceitos-chave
+Será feito em Python, por ser amplamente usado no ensino introdutório.
+
+Estruturas condicionais (if/else): Verifica se o código do produto já existe, se há produtos suficientes para remover etc.
+
+Laços de repetição (while/for): Menu principal e navegação pelos produtos.
+
+Vetores (listas): Armazenamento dos dados dos produtos.
+
+Funções: Cadastramento, remoção, listagem, busca, exibição de menu.
+
+3️⃣ Testes
+Depuração com print, simulação de entradas erradas.
+
+Testes de funções isoladamente com entradas válidas e inválidas.
+
+4️⃣ GitHub
+Organização do repositório com um README.md bem documentado, incluindo:
+
+Título criativo
+
+Descrição do sistema e sua utilidade
+
+Linguagens usadas
+
+Contribuidores
+
+Prints ou vídeo curto da execução
+
+Licença (MIT, por exemplo)
+
+5️⃣ Conclusão e próximos passos
+Desafios: controle de entrada/saída, verificação de duplicidade, organização do código.
+
+Melhorias futuras: persistência em arquivos, interface gráfica, uso de banco de dados, integração com web/app.
